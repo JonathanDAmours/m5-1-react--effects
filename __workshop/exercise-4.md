@@ -1,4 +1,4 @@
-# Exercise 4: Updating the Tab Title
+<!-- # Exercise 4: Updating the Tab Title -->
 
 The "cookie clicker" game shows your total # of cookies in the tab title:
 

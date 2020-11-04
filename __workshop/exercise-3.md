@@ -1,4 +1,4 @@
-# Exercise 3: Passive Cookie Generation
+<!-- # Exercise 3: Passive Cookie Generation -->
 
 We need to add a hook to update our `numCookies` once every second.
 

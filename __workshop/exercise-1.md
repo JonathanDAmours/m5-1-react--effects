@@ -1,4 +1,4 @@
-# Exercise 1: Finishing the UI
+<!-- # Exercise 1: Finishing the UI -->
 
 First, let's take a look at the structure. We'll find React Router in our `App` component.
 

@@ -1,4 +1,4 @@
-# Exercise 5: Using the "space" Key
+<!-- # Exercise 5: Using the "space" Key -->
 
 Another way that `useEffect` is helpful is when we need to register global event listeners.
 
@@ -13,7 +13,7 @@ function handleKeydown(ev) {
   }
 }
 
-window.addEventListener("keydown", handleKeydown)
+window.addEventListener("keydown", handleKeydown);
 ```
 
 Write a `useEffect` hook that registers an event listener, and triggers the "cookie click" code when the user hits the `Space` key. don't forget to unregister that callback when the component unmounts.

@@ -1,4 +1,4 @@
-# Exercise 6: Focusing the first store item on mount
+<!-- # Exercise 6: Focusing the first store item on mount -->
 
 It would be great for keyboard users if the very first item was auto-focused on mount.
 

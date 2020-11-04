@@ -16,9 +16,9 @@ We want this data to be _dynamic_, so we'll need to use React state via a `useSt
 
 First, let's do `numCookies`. Here's what we want:
 
-- `numCookies` should come from a state hook
+<!-- - `numCookies` should come from a state hook
 - Clicking the cookie `<Button>` should increment it by 1
-- That value should be shown in the UI (at the top, inside `<Indicator>`)
+- That value should be shown in the UI (at the top, inside `<Indicator>`) -->
 
 Implementing this is left as an exercise. If you're feeling lost, check out previous workshop for a refresher on how `useState` works!
 
